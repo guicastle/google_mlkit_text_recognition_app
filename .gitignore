@@ -25,3 +25,7 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+.idea
+.vscode
+.metadata
+google_mlkit_text_recognition_app.iml
